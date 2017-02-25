@@ -29,7 +29,7 @@ using namespace std;
 		*/
 
 const long long int NUM_OF_EXPERIMENTS = 20000000;
-const int NUM_OF_THREADS = 15;
+const int NUM_OF_THREADS = 15;  // generally recommend around 15 threads
 
 const int SQUARE_LENGTH = 2;
 const int CIRCLE_RADIUS = 1;
